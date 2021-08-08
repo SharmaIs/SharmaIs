@@ -1,6 +1,6 @@
 --->
 <h2>Hello👋</h2>
-<img align="right" alt="GIF" src="https://giphy.com/clips/originals-cyber-sci-fi-cyberface-UjIQNNZpWMI2uZ7fgC" width="500"/>
+<img align="right" alt="GIF" src="https://giphy.com/clips/originals-cyber-sci-fi-cyberface-syu0zsavYG4wSON7vs" width="500"/>
 
 <h3> 💻 About Me </h3>
 
